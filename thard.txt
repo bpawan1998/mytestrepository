@@ -1,4 +1,0 @@
-this is the third file 
-I have created to test the 
-myedit branch in git
-just edited
